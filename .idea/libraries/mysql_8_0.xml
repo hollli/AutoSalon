@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-8.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../mysql-8.0.33-winx64" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
